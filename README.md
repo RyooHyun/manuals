@@ -29,9 +29,15 @@
   - 협업하기
 - 별기호 섞어쓰기
 
-'''
+''' 
 function add(x,y) {return x*y;}
 <script>
     var now = new Date();
 </script>
 '''
+
+<http://www.naver.com>
+
+[네이버](http://www.naver.com)
+
+![이미지 연습](http:kyrieko.dothome.co.kr/images/first.jpg)
