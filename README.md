@@ -41,4 +41,5 @@ function add(x,y) {return x*y;}
 [네이버](http://www.naver.com)
 
 ![이미지 연습](http:kyrieko.dothome.co.kr/images/first.jpg)
-![새로운 이미지](./images/test.png)
+![새로운 이미지](./images/test.PNG)
+
